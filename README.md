@@ -172,7 +172,9 @@ Backend:
 cd backend
 pip install -r requirements.txt
 uvicorn main:app --reload
-
+API Generation : 
+generate an api key to use image genration model (pixazo.ai/flux-2-klein-4b) used here
+Go to (https://www.pixazo.ai/models) to generate one
 Frontend:
 
 cd frontend
